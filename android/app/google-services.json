@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133561852471",
+    "project_id": "fire-cade",
+    "storage_bucket": "fire-cade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133561852471:android:f019688aa1203326b4d5b2",
+        "android_client_info": {
+          "package_name": "com.cade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133561852471-nsj9dgli2ktu18bmuedbhd7o67300blj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZrGjJAoI80fO1sBSzDnX6RtjPF7IdUP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133561852471-nsj9dgli2ktu18bmuedbhd7o67300blj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
